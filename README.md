@@ -28,57 +28,27 @@ Glyztera is designed to revolutionize the cryptocurrency landscape by facilitati
 
 2. **Rapid Transactions with Compact Footprint**: Glyztera is designed to support swift transactions, ensuring timely commerce. In tandem, our focus on maintaining a concise blockchain guarantees a hassle-free setup for nodes, promoting decentralization and ease of access.
 
----
+### **Core Objectives**
 
-### Technical Foundation
+1. **Low Power Mining**: Leveraging energy-efficient algorithms to ensure environmentally-friendly mining that's economically viable for all scales of miners.
 
-- **Objective**: Develop Glyztera's unique PoW algorithm from scratch.
-- **Specifications**:
-  - Consensus Mechanism: Proof of Work (PoW)
-  - Blockchain built from scratch
-  - Emphasis on transaction speed and small block sizes
+2. **Intergalactic Potential**: Architecting the blockchain and protocols with the foresight of supporting transactions across vast interstellar distances.
 
----
+3. **Optimized Transaction Speed**: Ensuring quick and seamless transactions by focusing on minimalistic block sizes and efficient consensus mechanisms.
 
-### Development & Testing
+4. **Development in Python**: Harnessing the versatility and accessibility of Python for the primary development, ensuring a wide base of potential contributors.
 
-- **Objective**: Build and test Glyztera.
-- **Specifications**:
-  - Primary Development Language: Python
-  - Development milestones will be updated as the project progresses
-  - Testing mechanisms to be determined; potential for public beta or testnet
+5. **US Launch with Global Aspirations**: Initiating our journey from the US, with the vision of capturing the global market as Glyztera's value proposition resonates worldwide.
 
----
+6. **Active Community Engagement**: Regular updates, transparent communication, and an open-door policy for feedback via platforms like GitHub.
 
-### Regulatory & Legal
+### **Contact & Collaboration**
 
-- **Objective**: Launch Glyztera primarily in the USA and expand internationally as the coin gains traction.
-- **Specifications**:
-  - Initial focus on the USA for launch
-  - Plans to expand to other regions as Glyztera gains popularity
+For inquiries, suggestions, or collaborations, feel free to reach out:
 
----
+**Email**: 18trevor3695@gmail.com
 
-### Launch & Marketing
-
-- **Objective**: Launch Glyztera successfully.
-- **Specifications**:
-  - Marketing strategies and community events will be developed and communicated in the future.
-
----
-
-### Maintenance & Upgrades
-
-- **Objective**: Provide continuous support and timely upgrades.
-- **Specifications**:
-  - Updates will be released as needed.
-  - The primary platform for issue reporting and community engagement: [Glyztera GitHub Repository](https://github.com/[your_github_username]/glyztera)
-
----
-
-### Contact & Collaboration
-
-For inquiries, suggestions, or collaboration on Glyztera, please contact [18trevor3695@gmail.com](mailto:18trevor3695@gmail.com). Contribution guidelines and collaboration protocols will be developed and shared soon.
+Community guidelines and contribution protocols will be established soon, fostering a collaborative environment for all.
 
 ---
 
