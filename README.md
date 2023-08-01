@@ -80,7 +80,7 @@ Community guidelines and contribution protocols will be established soon, foster
 
 ### Purpose & Vision
 - [x] Finalize and document the primary objectives of Glyztera.
-- [ ] Elaborate on potential applications for intergalactic transactions.
+- [x] Elaborate on potential applications for intergalactic transactions.
 
 ### Technical Foundation
 - [ ] Research and select specific PoW mechanisms suitable for low-power mining.
