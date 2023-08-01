@@ -80,50 +80,50 @@ Glyztera To-Do Checklist
 
 Purpose & Vision
 
-	•	Finalize and document the primary objectives of Glyztera.
-	•	Elaborate on the potential applications for intergalactic transactions.
+[ ] Finalize and document the primary objectives of Glyztera.
+[ ] Elaborate on potential applications for intergalactic transactions.
 
 Technical Foundation
 
 	•	Research and select specific PoW mechanisms suitable for low-power mining.
-	•	Begin design of the blockchain architecture, keeping in mind transaction speed and small block sizes.
+	•	Begin design of the blockchain architecture, focusing on transaction speed and small block sizes.
 	•	Determine initial supply, block rewards, and other economic parameters.
 
 Development & Testing
 
-	•	Set up the development environment for Python.
-	•	Begin coding the blockchain core.
+	•	Set up the Python development environment.
+	•	Start coding the blockchain core.
 	•	Develop wallet and mining software.
-	•	Establish a testnet to evaluate Glyztera’s performance and security.
+	•	Establish a testnet for evaluating Glyztera’s performance and security.
 	•	Recruit beta testers and gather feedback.
-	•	Address identified bugs and issues.
+	•	Address and resolve identified bugs and issues.
 
 Regulatory & Legal
 
-	•	Research U.S. cryptocurrency regulations to ensure compliance.
-	•	Consult with a legal expert familiar with crypto laws in the USA.
+	•	Research U.S. cryptocurrency regulations for compliance.
+	•	Consult with a legal expert about crypto laws in the USA.
 	•	Prepare for potential future regulations in other countries.
 
 Launch & Marketing
 
 	•	Determine a tentative launch date.
-	•	Begin building a community around Glyztera (consider starting with forums, social media, etc.).
+	•	Start building a community around Glyztera (forums, social media, etc.).
 	•	Develop a basic marketing and outreach plan.
-	•	Consider partnerships, endorsements, or collaborations to enhance Glyztera’s credibility.
+	•	Consider potential partnerships, endorsements, or collaborations.
 
 Maintenance & Upgrades
 
-	•	Set up a clear protocol for community members to report issues on GitHub.
+	•	Set up a protocol for reporting issues on GitHub.
 	•	Regularly review and prioritize reported issues.
-	•	Develop a schedule for periodic reviews and potential upgrades.
+	•	Plan for periodic reviews and potential upgrades.
 
 Contact & Collaboration
 
 	•	Draft contribution guidelines for developers or community members.
-	•	Set up a dedicated channel (like a Discord server or forum) for ongoing discussions and feedback.
+	•	Establish a dedicated channel (e.g., Discord server or forum) for discussions and feedback.
 
 Miscellaneous
 
 	•	Design and launch a website or landing page for Glyztera.
-	•	Determine and implement a backup and recovery plan for potential network issues.
-	•	Consider strategies for liquidity if planning to list Glyztera on exchanges.
+	•	Implement a backup and recovery plan for potential network issues.
+	•	Strategize for liquidity if you plan to list Glyztera on exchanges.
