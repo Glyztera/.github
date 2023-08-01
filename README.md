@@ -66,6 +66,43 @@ In essence, as the universe becomes our playground, Glyztera promises to be the 
 
 ---
 
+## **Economic Parameters of Glyztera**
+
+### **Initial Supply**
+
+1. **Total Supply**: Glyztera will have a capped supply of 112 million coins, ensuring scarcity and long-term value.
+2. **Pre-mined Supply**: We're committed to a fair launch and have opted for no pre-mined coins. Every Glyztera coin will be earned through mining activities.
+
+### **Block Rewards**
+
+1. **Exponential Decrease Mechanism**: Glyztera's block reward will decrease exponentially, ensuring that the last coin will be mined within an 8-year timeframe. This method not only rewards early miners but also aligns with our long-term vision for a sustainable and decentralized cryptocurrency.
+
+2. **Forecasted Block Rewards**: A detailed chart will be provided that showcases the projected block rewards decrease over the 8-year period. Given the exponential decrease, early miners will benefit more, encouraging prompt adoption and network security.
+
+### **Transaction Fees**
+
+1. **Fee Distribution**: For every transaction on the Glyztera network, a certain percentage will be allocated as a fee. Out of this fee, 0.5% will be directly contributed to the Glyztera development fund. This ensures continuous funding for development, improvements, and community initiatives.
+   
+2. **Miner's Share**: The remaining transaction fee, after the 0.5% development allocation, will be awarded to miners, further incentivizing the network's security and sustainability.
+
+### **Other Economic Parameters**
+
+1. **Development Fund**: The 0.5% transaction fee allocation will accumulate in the Glyztera development fund. These funds will be transparently utilized for protocol improvements, community initiatives, and other essential developments to enhance Glyztera's ecosystem.
+   
+2. **Rewards for Full Nodes**: Details about full node rewards, if applicable, will be provided in future updates.
+
+3. **Governance**: Any significant changes to economic parameters will be made transparently and will take into account community feedback. A robust governance mechanism will be outlined to ensure that Glyztera remains adaptable and responsive to the evolving cryptocurrency landscape.
+
+### **Economic Rationale**
+
+1. **Sustainability**: By capping the supply and implementing an exponential decrease in block rewards, Glyztera aims to strike a balance between incentivizing early adoption and ensuring long-term network sustainability.
+   
+2. **Fairness**: With no pre-mining and a transparent block reward structure, we are ensuring that all participants, whether they are individual enthusiasts or large-scale miners, have an equal opportunity.
+   
+3. **Continuous Development**: The allocation of transaction fees to the development fund signifies our commitment to continuous improvement and adaptation to the needs of the Glyztera community.
+
+---
+
 ### **Contact & Collaboration**
 
 For inquiries, suggestions, or collaborations, feel free to reach out:
@@ -85,7 +122,7 @@ Community guidelines and contribution protocols will be established soon, foster
 ### Technical Foundation
 - [ ] Research and select specific PoW mechanisms suitable for low-power mining.
 - [ ] Begin design of the blockchain architecture, focusing on transaction speed and small block sizes.
-- [ ] Determine initial supply, block rewards, and other economic parameters.
+- [x] Determine initial supply, block rewards, and other economic parameters.
 
 ### Development & Testing
 - [ ] Set up the Python development environment.
