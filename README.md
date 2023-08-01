@@ -14,13 +14,19 @@ Glyztera is designed to revolutionize the cryptocurrency landscape by facilitati
 
 ---
 
-### Purpose & Vision
+## **Glyztera: Primary Objectives Documentation**
 
-- **Objective**: Revolutionize cryptocurrency with low power mining and future readiness for intergalactic transactions.
-- **Unique Features**: 
-  - Low power mining capability
-  - Small blocks with full nodes
-  - Future potential for intergalactic transactions
+### **Vision**
+
+**An Accessible Universe of Transactions**: Glyztera aspires to be an effortless cryptocurrency that seamlessly integrates into the lives of individuals across Earth and potentially extends its reach to other planets. We envision a future where distance and technological barriers are a thing of the past, and Glyztera is at the forefront of interstellar commerce.
+
+### **Mission**
+
+**Empowering Everyone Through Efficient Cryptocurrency**: Our mission is to democratize the cryptocurrency sphere by introducing a low-power Proof of Work (PoW) coin. Glyztera is tailored to serve a broad spectrum of miners – from individual enthusiasts to expansive corporations. Our commitment is twofold:
+
+1. **Profitability for All**: By optimizing energy consumption, we ensure that every miner, irrespective of scale, stands to benefit.
+
+2. **Rapid Transactions with Compact Footprint**: Glyztera is designed to support swift transactions, ensuring timely commerce. In tandem, our focus on maintaining a concise blockchain guarantees a hassle-free setup for nodes, promoting decentralization and ease of access.
 
 ---
 
