@@ -76,54 +76,46 @@ For inquiries, suggestions, or collaboration on Glyztera, please contact [18trev
 
 ---
 
-Glyztera To-Do Checklist
+## Glyztera To-Do Checklist
 
-Purpose & Vision
+### Purpose & Vision
+- [ ] Finalize and document the primary objectives of Glyztera.
+- [ ] Elaborate on potential applications for intergalactic transactions.
 
-[] Finalize and document the primary objectives of Glyztera.
-[x] Elaborate on potential applications for intergalactic transactions.
+### Technical Foundation
+- [ ] Research and select specific PoW mechanisms suitable for low-power mining.
+- [ ] Begin design of the blockchain architecture, focusing on transaction speed and small block sizes.
+- [ ] Determine initial supply, block rewards, and other economic parameters.
 
-Technical Foundation
+### Development & Testing
+- [ ] Set up the Python development environment.
+- [ ] Start coding the blockchain core.
+- [ ] Develop wallet and mining software.
+- [ ] Establish a testnet for evaluating Glyztera's performance and security.
+- [ ] Recruit beta testers and gather feedback.
+- [ ] Address and resolve identified bugs and issues.
 
-	•	Research and select specific PoW mechanisms suitable for low-power mining.
-	•	Begin design of the blockchain architecture, focusing on transaction speed and small block sizes.
-	•	Determine initial supply, block rewards, and other economic parameters.
+### Regulatory & Legal
+- [ ] Research U.S. cryptocurrency regulations for compliance.
+- [ ] Consult with a legal expert about crypto laws in the USA.
+- [ ] Prepare for potential future regulations in other countries.
 
-Development & Testing
+### Launch & Marketing
+- [ ] Determine a tentative launch date.
+- [ ] Start building a community around Glyztera (forums, social media, etc.).
+- [ ] Develop a basic marketing and outreach plan.
+- [ ] Consider potential partnerships, endorsements, or collaborations.
 
-	•	Set up the Python development environment.
-	•	Start coding the blockchain core.
-	•	Develop wallet and mining software.
-	•	Establish a testnet for evaluating Glyztera’s performance and security.
-	•	Recruit beta testers and gather feedback.
-	•	Address and resolve identified bugs and issues.
+### Maintenance & Upgrades
+- [ ] Set up a protocol for reporting issues on GitHub.
+- [ ] Regularly review and prioritize reported issues.
+- [ ] Plan for periodic reviews and potential upgrades.
 
-Regulatory & Legal
+### Contact & Collaboration
+- [ ] Draft contribution guidelines for developers or community members.
+- [ ] Establish a dedicated channel (e.g., Discord server or forum) for discussions and feedback.
 
-	•	Research U.S. cryptocurrency regulations for compliance.
-	•	Consult with a legal expert about crypto laws in the USA.
-	•	Prepare for potential future regulations in other countries.
-
-Launch & Marketing
-
-	•	Determine a tentative launch date.
-	•	Start building a community around Glyztera (forums, social media, etc.).
-	•	Develop a basic marketing and outreach plan.
-	•	Consider potential partnerships, endorsements, or collaborations.
-
-Maintenance & Upgrades
-
-	•	Set up a protocol for reporting issues on GitHub.
-	•	Regularly review and prioritize reported issues.
-	•	Plan for periodic reviews and potential upgrades.
-
-Contact & Collaboration
-
-	•	Draft contribution guidelines for developers or community members.
-	•	Establish a dedicated channel (e.g., Discord server or forum) for discussions and feedback.
-
-Miscellaneous
-
-	•	Design and launch a website or landing page for Glyztera.
-	•	Implement a backup and recovery plan for potential network issues.
-	•	Strategize for liquidity if you plan to list Glyztera on exchanges.
+### Miscellaneous
+- [ ] Design and launch a website or landing page for Glyztera.
+- [ ] Implement a backup and recovery plan for potential network issues.
+- [ ] Strategize for liquidity if you plan to list Glyztera on exchanges.
