@@ -80,8 +80,8 @@ Glyztera To-Do Checklist
 
 Purpose & Vision
 
-[ ] Finalize and document the primary objectives of Glyztera.
-[ ] Elaborate on potential applications for intergalactic transactions.
+[] Finalize and document the primary objectives of Glyztera.
+[x] Elaborate on potential applications for intergalactic transactions.
 
 Technical Foundation
 
