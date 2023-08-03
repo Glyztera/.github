@@ -2,12 +2,11 @@
 
 Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future. This README provides an overview of the development process and serves as a guide to help stay on task.
 
-## Table of Contents
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#Primary Objectives">Primary Objectives</a></li>
+    <li><a href="#primary-objectives">Primary Objectives</a></li>
     <ul>
         <li><a href="#vision">Vision</a></li>
         <li><a href="#mission">Mission</a></li>
