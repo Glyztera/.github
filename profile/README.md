@@ -3,16 +3,36 @@
 Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future. This README provides an overview of the development process and serves as a guide to help stay on task.
 
 ## Table of Contents
-
-1. [Primary Objectives](#glyztera--primary-objectives-documentation)
-   * [Vision](#vision)
-   * [Mission](#mission)
-2. [Technical Foundation](#technical-foundation)
-3. [Development & Testing](#development--testing)
-4. [Regulatory & Legal](#regulatory--legal)
-5. [Launch & Marketing](#launch--marketing)
-6. [Maintenance & Upgrades](#maintenance--upgrades)
-7. [Contact & Collaboration](#contact--collaboration)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#glyztera--primary-objectives-documentation">Primary Objectives</a></li>
+    <ul>
+        <li><a href="#vision">Vision</a></li>
+        <li><a href="#mission">Mission</a></li>
+    </ul>
+    <li><a href="#technical-foundation">Technical Foundation</a></li>
+    <li><a href="#development--testing">Development & Testing</a></li>
+    <li><a href="#regulatory--legal">Regulatory & Legal</a></li>
+    <li><a href="#launch--marketing">Launch & Marketing</a></li>
+    <li><a href="#maintenance--upgrades">Maintenance & Upgrades</a></li>
+    <li><a href="#contact--collaboration">Contact & Collaboration</a></li>
+  </ol>
+</details>
 
 ---
 
