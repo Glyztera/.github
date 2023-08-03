@@ -13,7 +13,7 @@ Glyztera is designed to revolutionize the cryptocurrency landscape by facilitati
     </ul>
     <li><a href="#core-objectives">Core Objectives</a></li>
     <li><a href="#development--testing">Development & Testing</a></li>
-    <li><a href="#regulatory--legal">Regulatory & Legal</a></li>
+    <li><a href="#economic-parameters">Economic Parameters</a></li>
     <li><a href="#launch--marketing">Launch & Marketing</a></li>
     <li><a href="#maintenance--upgrades">Maintenance & Upgrades</a></li>
     <li><a href="#contact--collaboration">Contact & Collaboration</a></li>
