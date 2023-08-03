@@ -4,7 +4,9 @@ Glyztera is designed to revolutionize the cryptocurrency landscape by facilitati
 
 ## Table of Contents
 
-1. [Purpose & Vision](#purpose--vision)
+1. [Primary Objectives](#glyztera:-primary-objectives-documentation)
+- [Vision](#vision)
+- [Mission](#mission)
 2. [Technical Foundation](#technical-foundation)
 3. [Development & Testing](#development--testing)
 4. [Regulatory & Legal](#regulatory--legal)
