@@ -19,9 +19,7 @@ Glyztera is designed to revolutionize the cryptocurrency landscape by facilitati
         <li><a href="#block-rewards">Block Rewards</a></li>
         <li><a href="#transaction-fees">Transaction Fees</a></li>
     </ul>
-    <li><a href="#launch--marketing">Launch & Marketing</a></li>
-    <li><a href="#maintenance--upgrades">Maintenance & Upgrades</a></li>
-    <li><a href="#contact--collaboration">Contact & Collaboration</a></li>
+    <li><a href="#glyztera-to-do-checklist">To-Do Checklist</a></li>
   </ol>
 </details>
 
