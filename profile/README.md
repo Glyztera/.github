@@ -1,6 +1,8 @@
 # Glyztera Cryptocurrency
 
-Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future. This README provides an overview of the development process and serves as a guide to help stay on task.
+Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future. 
+
+This README is a mock up of the projects end game objectives and provides an overview of the development process and serves as a guide to help stay on task.
 
 <!-- TABLE OF CONTENTS -->
 <details>
