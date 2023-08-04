@@ -23,7 +23,6 @@ This README is a mock up of the project's end game objectives and provides an ov
         <li><a href="#initial-supply">Initial Supply</a></li>
         <li><a href="#block-rewards">Block Rewards</a></li>
         <li><a href="#transaction-fees">Transaction Fees</a></li>
-        <li><a href="#other-economic-parameters">Other Economic Parameters</a></li>
         <li><a href="#economic-rationale">Economic Rationale</a></li>
     </ul>
     <li><a href="#glyztera-to-do-checklist">To-Do Checklist</a></li>
@@ -111,17 +110,13 @@ Which evaluates to:
 
 Fee ≈ 0.0003107 coins per transactions for 29.44 coins
 
-For a day with a total volume of 15,355,266,929 coins and considering the average transaction size, the total fees collected in a day would be approximately 162,060.14 coins. (Fee usage broken down in next section.)
+Fees are then broken down into what they are used for:
 
-### **Other Economic Parameters**
-
-From the total transaction fee calculated above: *(using a random volume of 15,355,266,929 coins)*
-
-* 55% Miner Rewards: Approximately 89,133.08 coins. Ensuring network security and faster transaction validations.
-* 15% Development and Dev Salaries: Approximately 24,309.02 coins. For continuous development, patches, and improvements to the Glyztera blockchain.
-* 10% Operational Costs: Approximately 16,206.01 coins. For maintaining the infrastructure, servers, and associated services.
-* 10% Advertising and Promotion: Approximately 16,206.01 coins. Aimed at community growth, awareness, and user onboarding.
-* 10% Liquidity Provision: Approximately 16,206.01 coins. For maintaining liquidity and stabilizing the coin’s value.
+* 55% Miner Rewards: Ensuring network security and faster transaction validations.
+* 15% Development and Dev Salaries: For continuous development, patches, and improvements to the Glyztera blockchain.
+* 10% Operational Costs: For maintaining the infrastructure, servers, and associated services.
+* 10% Advertising and Promotion: Aimed at community growth, awareness, and user onboarding.
+* 10% Liquidity Provision: For maintaining liquidity and stabilizing the coin’s value.
 
 ### **Economic Rationale**
 
