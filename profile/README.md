@@ -22,9 +22,13 @@ This README is a mock up of the project's end game objectives and provides an ov
     <ul>
         <li><a href="#initial-supply">Initial Supply</a></li>
         <li><a href="#block-rewards">Block Rewards</a></li>
-        <li><a href="#transaction-fees">Transaction Fees</a></li>
         <li><a href="#other-economic-parameters">Other Economic Parameters</a></li>
         <li><a href="#economic-rationale">Economic Rationale</a></li>
+    </ul>
+    <li><a href="#transaction-fees">Transaction Fees</a></li>
+    <ul>
+        <li><a href="#fee-calculation">Fee Calculation</a></li>
+        <li><a href="#fee-allocation">Fee Allocation</a></li>
     </ul>
     <li><a href="#glyztera-to-do-checklist">To-Do Checklist</a></li>
   </ol>
