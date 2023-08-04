@@ -99,7 +99,7 @@ In essence, as the universe becomes our playground, Glyztera promises to be the 
 
 Base Fee: 0.00001% of the transaction amount raised to the power of 1.05.
 
-	•	Formula: ( \text{Base Fee} = 0.00001 \times (\text{Transaction Amount})^{1.05} )
+* Formula: Base Fee = 0.00001 x (Transaction Amount)^1.05
 
 Example:
 
