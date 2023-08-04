@@ -54,11 +54,9 @@ This README is a mock up of the project's end game objectives and provides an ov
 
 3. **Optimized Transaction Speed**: Ensuring quick and seamless transactions by focusing on minimalistic block sizes and efficient consensus mechanisms.
 
-4. **Development in Python**: Harnessing the versatility and accessibility of Python for the primary development, ensuring a wide base of potential contributors.
+4. **US Launch with Global Aspirations**: Initiating our journey from the US, with the vision of capturing the global market as Glyztera's value proposition resonates worldwide.
 
-5. **US Launch with Global Aspirations**: Initiating our journey from the US, with the vision of capturing the global market as Glyztera's value proposition resonates worldwide.
-
-6. **Active Community Engagement**: Regular updates, transparent communication, and an open-door policy for feedback via platforms like GitHub.
+5. **Active Community Engagement**: Regular updates, transparent communication, and an open-door policy for feedback via platforms like GitHub.
 
 ---
 
@@ -143,7 +141,7 @@ Community guidelines and contribution protocols will be established soon, foster
 - [x] Determine initial supply, block rewards, and other economic parameters.
 
 ### Development & Testing
-- [ ] Set up the Python development environment.
+- [ ] Set up the C++ development environment.
 - [ ] Start coding the blockchain core.
 - [ ] Develop wallet and mining software.
 - [ ] Establish a testnet for evaluating Glyztera's performance and security.
