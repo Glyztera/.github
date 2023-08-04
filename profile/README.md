@@ -97,17 +97,28 @@ In essence, as the universe becomes our playground, Glyztera promises to be the 
 
 ### **Transaction Fees**
 
-1. **Fee Distribution**: For every transaction on the Glyztera network, a certain percentage will be allocated as a fee. Out of this fee, 0.5% will be directly contributed to the Glyztera development fund. This ensures continuous funding for development, improvements, and community initiatives.
-   
-2. **Miner's Share**: The remaining transaction fee, after the 0.5% development allocation, will be awarded to miners, further incentivizing the network's security and sustainability.
+Base Fee: 0.00001% of the transaction amount raised to the power of 1.05.
+
+	•	Formula: ( \text{Base Fee} = 0.00001 \times (\text{Transaction Amount})^{1.05} )
+
+Example:
+
+For an average transaction size of 29.44 coins:
+
+	•	( \text{Base Fee} = 0.00001 \times (29.44)^{1.05} )
+	•	This results in a fee of approximately 0.0003107 coins per transaction.
+
+For a day with a total volume of 15,355,266,929 coins and considering the average transaction size, the total fees collected in a day would be approximately 162,060.14 coins.
 
 ### **Other Economic Parameters**
 
-1. **Development Fund**: The 0.5% transaction fee allocation will accumulate in the Glyztera development fund. These funds will be transparently utilized for protocol improvements, community initiatives, and other essential developments to enhance Glyztera's ecosystem.
-   
-2. **Rewards for Full Nodes**: Details about full node rewards, if applicable, will be provided in future updates.
+From the total transaction fee:
 
-3. **Governance**: Any significant changes to economic parameters will be made transparently and will take into account community feedback. A robust governance mechanism will be outlined to ensure that Glyztera remains adaptable and responsive to the evolving cryptocurrency landscape.
+	•	55% Miner Rewards: Approximately 89,133.08 coins. Ensuring network security and faster transaction validations.
+	•	15% Development and Dev Salaries: Approximately 24,309.02 coins. For continuous development, patches, and improvements to the Glyztera blockchain.
+	•	10% Operational Costs: Approximately 16,206.01 coins. For maintaining the infrastructure, servers, and associated services.
+	•	10% Advertising and Promotion: Approximately 16,206.01 coins. Aimed at community growth, awareness, and user onboarding.
+	•	10% Liquidity Provision: Approximately 16,206.01 coins. For maintaining liquidity and stabilizing the coin’s value.
 
 ### **Economic Rationale**
 
