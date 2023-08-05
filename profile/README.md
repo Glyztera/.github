@@ -132,7 +132,7 @@ Fees are then broken down into what they are used for:
 
 For inquiries, suggestions, or collaborations, feel free to reach out:
 
-**Email**: 18trevor3695@gmail.com
+**Email**: ExoHayvan@glyztera.com
 
 Community guidelines and contribution protocols will be established soon, fostering a collaborative environment for all.
 
