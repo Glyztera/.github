@@ -113,7 +113,7 @@ Fee ≈ 0.0003107 coins per transactions for 29.44 coins
 Fees are then broken down into what they are used for:
 
 * 55% Miner Rewards: Ensuring network security and faster transaction validations.
-* 15% Development and Dev Salaries: For continuous development, patches, and improvements to the Glyztera blockchain.
+* 15% Development and Dev Salaries: For continuous development, patches, and improvements to the Glyztera blockchain. [Further Breakdown](https://github.com/Glyztera/.github/blob/main/docs/Dev-Salaries.md)
 * 10% Operational Costs: For maintaining the infrastructure, servers, and associated services.
 * 10% Advertising and Promotion: Aimed at community growth, awareness, and user onboarding.
 * 10% Liquidity Provision: For maintaining liquidity and stabilizing the coin’s value.
