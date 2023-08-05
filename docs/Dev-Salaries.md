@@ -1,4 +1,6 @@
-# Glyztera Blockchain Development and Dev Salaries Breakdown
+# Glyztera Blockchain Development and Dev Salaries 15% Fee Breakdown and Responsibilities
+
+Of the 15% from the fee, we can break this down further to the below.
 
 ## 1. Organization Owner (35%)
 The Organization Owner is responsible for:
