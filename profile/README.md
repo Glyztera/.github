@@ -2,6 +2,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/Glyztera?style=for-the-badge&label=FOLLOWERS)
 ![GitHub Stars](https://img.shields.io/github/stars/Glyztera?style=for-the-badge&label=STARS)
+[![Discord](https://img.shields.io/discord/1137194451756912700?style=for-the-badge)](https://discord.gg/PHymDZgUgJ)
 
 Glyztera is designed to revolutionize the cryptocurrency landscape by facilitating low power mining and supporting small blocks with full nodes, making it a contender for intergalactic transactions in the future. 
 
